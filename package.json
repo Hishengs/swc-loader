@@ -1,0 +1,35 @@
+{
+  "name": "@hisheng/swc-loader",
+  "version": "1.0.0",
+  "description": "A Alternative Webpack Loader For SWC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hishengs/swc-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "swc"
+  ],
+  "author": "hishengs@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hishengs/swc-loader/issues"
+  },
+  "homepage": "https://github.com/Hishengs/swc-loader#readme",
+  "dependencies": {
+    "loader-utils": "^2.0.2"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.2.147",
+    "webpack": "^5.69.1"
+  },
+  "peerDependencies": {
+    "@swc/core": "^1.2.147",
+    "webpack": ">=2"
+  }
+}
