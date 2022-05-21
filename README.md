@@ -1,6 +1,11 @@
 # swc-loader
 A Alternative Webpack Loader For SWC
 
+[![npm][npm-image]][npm-url]
+
+[npm-image]: https://badge.fury.io/js/@hisheng%2Fswc-loader.svg
+[npm-url]: https://www.npmjs.com/package/@hisheng/swc-loader
+
 ## Usage
 
 ```bash
